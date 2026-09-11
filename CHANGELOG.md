@@ -6,17 +6,21 @@ Tap Homebrew des apps PK.
 
 ## TODO — Roadmap
 
-Statut : `2026.09.01`
+Statut : `2026.09.32`
 
 ### Phase 1 — Premier tap
 - [x] Cask `monocode-pk` (DMG aarch64 depuis les releases `pk-*`)
 - [x] README FR/EN + changelog
-- [ ] Second cask (prochaine app PK)
+- [x] Second cask (`pkmonitor`)
 - [ ] Build Intel (DMG x86_64 + `variations` dans le cask)
 
 ---
 
 ## Releases
+
+### [2026.09.32] - 2026-09-11
+#### Added
+- Cask `pkmonitor` 2026.09.32 — `brew install --cask mondary/tap/pkmonitor`
 
 ### [2026.09.01] - 2026-09-11
 #### Added

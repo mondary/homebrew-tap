@@ -4,7 +4,7 @@
 
 Tap Homebrew des apps PK. Installation en une ligne, mise à jour avec `brew upgrade`.
 
-![Version](https://img.shields.io/badge/version-2026.09.01-c8ff5e)
+![Version](https://img.shields.io/badge/version-2026.09.32-c8ff5e)
 
 ## 🧪 Installation du tap
 
@@ -37,6 +37,24 @@ brew update && brew upgrade --cask monocode-pk
 
 Sans Homebrew : [DMG direct (Apple Silicon)](https://github.com/mondary/monocode/releases/latest)
 — signé, non notarisé (clic droit → Ouvrir au premier lancement).
+
+### PKMonitor
+
+Moniteur système macOS natif et discret pour le CPU, GPU, RAM, réseau et disque.
+
+Installer :
+
+```bash
+brew install --cask mondary/tap/pkmonitor
+```
+
+Mettre à jour :
+
+```bash
+brew update && brew upgrade --cask pkmonitor
+```
+
+Sans Homebrew : [DMG direct (Apple Silicon)](https://github.com/mondary/PKmonitor/releases/latest).
 
 ## 🔄 Ajouter une app au tap
 
