@@ -1,6 +1,6 @@
 cask "monocode-pk" do
   version "2026.09.39"
-  sha256 "9aa0cc6ef8a55bb416e924416d29dd3a9875c56efe46407026f97dd3827f1933"
+  sha256 "5d6d6d21587ac3ba72bb54347d7d94983692e591fe3e7031b373b247dd34508e"
 
   url "https://github.com/mondary/monocode/releases/download/pk-#{version}/MonoCodePK_#{version}_aarch64.dmg"
   name "MonoCode PK"
