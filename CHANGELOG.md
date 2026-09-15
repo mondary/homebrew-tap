@@ -4,6 +4,12 @@ Tap Homebrew des apps PK.
 
 ---
 
+## Releases
+
+### [2026.09.39] - 2026-09-15
+#### Changed
+- Cask `monocode-pk` mis à jour vers la release `pk-2026.09.39`.
+
 ## TODO — Roadmap
 
 Statut : `2026.09.32`
