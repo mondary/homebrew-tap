@@ -4,7 +4,7 @@
 
 Homebrew tap for PK apps. One-line install, updates with `brew upgrade`.
 
-![Version](https://img.shields.io/badge/version-2026.09.39-c8ff5e)
+![Version](https://img.shields.io/badge/version-2026.09.40-c8ff5e)
 
 ## 🧪 Tap the repository
 
@@ -55,6 +55,26 @@ brew update && brew upgrade --cask pkmonitor
 ```
 
 Without Homebrew: [direct DMG (Apple Silicon)](https://github.com/mondary/PKmonitor/releases/latest).
+
+### PK Voice Cloner
+
+100% local voice cloning studio on Apple Silicon (VoxCPM2, dots.tts, Qwen3,
+Pocket TTS): native app, your voice says any text without leaving your machine.
+
+Install:
+
+```bash
+brew install --cask mondary/tap/pk-voice-cloner
+```
+
+Upgrade:
+
+```bash
+brew update && brew upgrade --cask pk-voice-cloner
+```
+
+Without Homebrew: [direct DMG (Apple Silicon)](https://github.com/mondary/Macos_PKvoicecloner/releases/latest).
+The app ships its own updates (Sparkle).
 
 ## 🔄 Adding an app to the tap
 
