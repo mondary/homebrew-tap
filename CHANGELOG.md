@@ -6,6 +6,12 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.09.41] - 2026-09-15
+#### Changed
+- Cask `monocode-pk` mis à jour vers la release `pk-2026.09.41`.
+
+## Releases
+
 ### [2026.09.40] - 2026-09-15
 #### Added
 - Cask `pk-voice-cloner` 0.6.0 : studio de clonage vocal 100 % local (app native, DMG depuis les releases Macos_PKvoicecloner).

@@ -4,7 +4,7 @@
 
 Tap Homebrew des apps PK. Installation en une ligne, mise à jour avec `brew upgrade`.
 
-![Version](https://img.shields.io/badge/version-2026.09.40-c8ff5e)
+![Version](https://img.shields.io/badge/version-2026.09.41-c8ff5e)
 
 ## 🧪 Installation du tap
 
