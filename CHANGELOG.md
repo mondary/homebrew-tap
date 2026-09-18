@@ -6,6 +6,12 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.09.42] - 2026-09-15
+#### Changed
+- Cask `monocode-pk` mis à jour vers la release `pk-2026.09.42`.
+
+## Releases
+
 ### [2026.09.41] - 2026-09-15
 #### Changed
 - Cask `monocode-pk` mis à jour vers la release `pk-2026.09.41`.
