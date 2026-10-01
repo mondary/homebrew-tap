@@ -4,7 +4,7 @@
 
 Homebrew tap for PK apps. One-line install, updates with `brew upgrade`.
 
-![Version](https://img.shields.io/badge/version-2026.09.45-c8ff5e)
+![Version](https://img.shields.io/badge/version-2026.10.0-c8ff5e)
 
 ## 🧪 Tap the repository
 
@@ -114,6 +114,25 @@ brew update && brew upgrade --cask pk-windows-management
 
 Without Homebrew: [direct DMG (Apple Silicon)](https://github.com/mondary/PKwindowsManagement/releases/latest/download/PKwindowsManagement_aarch64.dmg).
 The app is not notarized; if macOS blocks its first launch, Control-click → Open.
+
+### PKpowerlines
+
+A multi-screen powerline in the menu bar: battery, RAM, CPU or network in real time,
+on all four edges of every screen. Universal Intel + Apple Silicon binary.
+
+Install:
+
+```bash
+brew install --cask mondary/tap/pkpowerlines
+```
+
+Upgrade:
+
+```bash
+brew update && brew upgrade --cask pkpowerlines
+```
+
+Without Homebrew: [direct DMG (universal)](https://github.com/mondary/Macos_PKpowerlines/releases/latest/download/PKpowerlines.dmg).
 
 ## 🔄 Adding an app to the tap
 

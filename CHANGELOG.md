@@ -6,6 +6,12 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.10.0] - 2026-10-01
+#### Added
+- Cask `pkpowerlines` 2026.10.2 (binaire universel Intel + Apple Silicon), téléchargé depuis la GitHub Release `v2026.10.2` et vérifié par SHA-256. Asset DMG non versionné publié en parallèle pour le lien `latest/download`.
+- README FR/EN : section PKpowerlines (install, upgrade, DMG direct).
+
+
 ### [2026.09.45] - 2026-10-01
 #### Added
 - Cask `pk-windows-management` 2026.09.08 pour Apple Silicon, téléchargé depuis la GitHub Release `pk-2026.09.08` et vérifié par SHA-256.
