@@ -6,6 +6,14 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.09.44] - 2026-10-01
+#### Added
+- Cask `pkarchives` 2026.10.12 pour Apple Silicon, téléchargé depuis la GitHub Release et vérifié par SHA-256.
+#### Changed
+- Version du tap et README FR/EN synchronisés.
+
+## Releases
+
 ### [2026.09.43] - 2026-09-15
 #### Changed
 - Cask `monocode-pk` mis à jour vers la release `pk-2026.09.43`.

@@ -4,7 +4,7 @@
 
 Homebrew tap for PK apps. One-line install, updates with `brew upgrade`.
 
-![Version](https://img.shields.io/badge/version-2026.09.43-c8ff5e)
+![Version](https://img.shields.io/badge/version-2026.09.44-c8ff5e)
 
 ## 🧪 Tap the repository
 
@@ -75,6 +75,25 @@ brew update && brew upgrade --cask pk-voice-cloner
 
 Without Homebrew: [direct DMG (Apple Silicon)](https://github.com/mondary/Macos_PKvoicecloner/releases/latest).
 The app ships its own updates (Sparkle).
+
+### PKarchives
+
+Archive your macOS Desktop to Google Drive via rclone, with a native app and CLI/TUI.
+
+Install:
+
+```bash
+brew install --cask mondary/tap/pkarchives
+```
+
+Upgrade:
+
+```bash
+brew update && brew upgrade --cask pkarchives
+```
+
+Without Homebrew: [direct DMG (Apple Silicon)](https://github.com/mondary/Macos_PKarchives/releases/latest/download/PKarchives.dmg).
+The app is not notarized; if macOS blocks its first launch, Control-click → Open.
 
 ## 🔄 Adding an app to the tap
 
