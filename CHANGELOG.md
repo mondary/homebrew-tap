@@ -6,6 +6,11 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.09.45] - 2026-10-01
+#### Added
+- Cask `pk-windows-management` 2026.09.08 pour Apple Silicon, téléchargé depuis la GitHub Release `pk-2026.09.08` et vérifié par SHA-256.
+- README FR/EN : section PKwindowsManagement (install, upgrade, DMG direct).
+
 ### [2026.09.44] - 2026-10-01
 #### Added
 - Cask `pkarchives` 2026.10.12 pour Apple Silicon, téléchargé depuis la GitHub Release et vérifié par SHA-256.
