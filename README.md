@@ -4,7 +4,7 @@
 
 Tap Homebrew des apps PK. Installation en une ligne, mise à jour avec `brew upgrade`.
 
-![Version](https://img.shields.io/badge/version-2026.10.0-c8ff5e)
+![Version](https://img.shields.io/badge/version-2026.10.1-c8ff5e)
 
 ## 🧪 Installation du tap
 
@@ -134,6 +134,20 @@ brew update && brew upgrade --cask pkpowerlines
 ```
 
 Sans Homebrew : [DMG direct (universel)](https://github.com/mondary/Macos_PKpowerlines/releases/latest/download/PKpowerlines.dmg).
+
+### PKMediaDownloader
+
+Téléchargeur vidéo macOS natif basé sur yt-dlp, avec historique et découpe.
+Apple Silicon, macOS 14+ ; `yt-dlp` et `ffmpeg` sont installés avec le cask.
+
+```bash
+brew install --cask mondary/tap/pkmedia-downloader
+brew update && brew upgrade --cask pkmedia-downloader
+```
+
+Sans Homebrew : [DMG direct v1.2026.12](https://github.com/mondary/media-downloader/releases/download/v1.2026.12/PKMediaDownloader-v1.2026.12-macos-arm64.dmg).
+Le DMG est signé ad hoc, non notarisé : macOS peut demander une autorisation
+dans Confidentialité et sécurité au premier lancement.
 
 ## 🔄 Ajouter une app au tap
 

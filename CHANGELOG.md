@@ -6,6 +6,11 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.10.1] - 2026-10-02
+#### Added
+- Cask `pkmedia-downloader` 1.2026.12 pour Apple Silicon, DMG de la release GitHub vérifié par SHA-256, dépendances yt-dlp et ffmpeg.
+- Instructions d'installation et limites de notarisation dans les README FR/EN.
+
 ### [2026.10.0] - 2026-10-01
 #### Added
 - Cask `pkpowerlines` 2026.10.2 (binaire universel Intel + Apple Silicon), téléchargé depuis la GitHub Release `v2026.10.2` et vérifié par SHA-256. Asset DMG non versionné publié en parallèle pour le lien `latest/download`.
