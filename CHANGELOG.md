@@ -72,7 +72,7 @@ Statut : `2026.09.32`
 
 ### [2026.09.32] - 2026-09-11
 #### Added
-- Cask `pkmonitor` 2026.09.32 — `brew install --cask mondary/tap/pkmonitor`
+- Cask `pkmonitor` 2026.10.6 — `brew install --cask mondary/tap/pkmonitor`
 
 ### [2026.09.01] - 2026-09-11
 #### Added

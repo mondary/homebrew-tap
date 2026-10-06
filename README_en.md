@@ -4,7 +4,7 @@
 
 Homebrew tap for PK apps. One-line install, updates with `brew upgrade`.
 
-![Version](https://img.shields.io/badge/version-2026.10.1-c8ff5e)
+![Version](https://img.shields.io/badge/version-2026.10.6-c8ff5e)
 
 ## 🧪 Tap the repository
 
