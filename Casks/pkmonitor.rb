@@ -1,6 +1,6 @@
 cask "pkmonitor" do
-  version "2026.10.6"
-  sha256 "234ce7f4824d6b6df3412cdb5452a3e896c22dcd1b2453ec00d00b9c68360474"
+  version "2026.10.7"
+  sha256 "953c7fa15ff0de154844adef230d831b6b8fb63dbc956f09a058e74e7141f58b"
 
   url "https://github.com/mondary/PKmonitor/releases/download/v#{version}/PKMonitor-#{version}.dmg"
   name "PKMonitor"

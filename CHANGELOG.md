@@ -6,6 +6,11 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.10.7] - 2026-10-06
+#### Added
+- Cask `pkmonitor` 2026.10.7 — mises à jour automatiques Sparkle (appcast signé EdDSA, entrée « Check for Updates… »).
+
+
 ### [2026.10.6] - 2026-10-06
 #### Changed
 - Cask `pkmonitor` 2026.10.6 — compteur de pourcentages stable dans la barre de menus (DMG `v2026.10.6`, SHA-256 vérifié).
