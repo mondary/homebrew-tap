@@ -6,6 +6,11 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.10.6] - 2026-10-06
+#### Changed
+- Cask `pkmonitor` 2026.10.6 — compteur de pourcentages stable dans la barre de menus (DMG `v2026.10.6`, SHA-256 vérifié).
+
+
 ### [2026.10.1] - 2026-10-02
 #### Added
 - Cask `pkmedia-downloader` 1.2026.12 pour Apple Silicon, DMG de la release GitHub vérifié par SHA-256, dépendances yt-dlp et ffmpeg.
