@@ -1,6 +1,6 @@
 cask "pkarchives" do
-  version "2026.10.12"
-  sha256 "01e8959402fb0d942330fd6362e24cec11c05fb5171fbee475b50a360349c671"
+  version "2026.10.27"
+  sha256 "c62d947dd87bb70642446fbc03c99c55d1a8cd761317cacd9d687d78cc16cec1"
 
   url "https://github.com/mondary/Macos_PKarchives/releases/download/v#{version}/PKarchives-#{version}.dmg"
   name "PKarchives"
