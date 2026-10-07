@@ -6,6 +6,10 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.10.8] - 2026-10-07
+#### Changed
+- Cask `pkmonitor` mis à jour vers la release Stable 2026.10.20, SHA-256 du DMG vérifié.
+
 ### [2026.10.7] - 2026-10-06
 #### Added
 - Cask `pkmonitor` 2026.10.7 — mises à jour automatiques Sparkle (appcast signé EdDSA, entrée « Check for Updates… »).

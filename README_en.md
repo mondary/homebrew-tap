@@ -41,6 +41,7 @@ Without Homebrew: [direct DMG (Apple Silicon)](https://github.com/mondary/monoco
 ### PKMonitor
 
 Native, discreet macOS system monitor for CPU, GPU, RAM, network and disk.
+Current Stable version: **2026.10.20**.
 
 Install:
 

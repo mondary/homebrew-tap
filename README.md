@@ -41,6 +41,7 @@ Sans Homebrew : [DMG direct (Apple Silicon)](https://github.com/mondary/monocode
 ### PKMonitor
 
 Moniteur système macOS natif et discret pour le CPU, GPU, RAM, réseau et disque.
+Version Stable : **2026.10.20**.
 
 Installer :
 
