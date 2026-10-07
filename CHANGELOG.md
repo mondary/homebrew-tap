@@ -6,6 +6,10 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.10.11] - 2026-10-07
+#### Changed
+- Cask `pk-voice-cloner` mis à jour vers la release Stable 2026.10.45, SHA-256 du DMG versionné vérifié. Le dépôt et l’environnement Python restent requis.
+
 ### [2026.10.10] - 2026-10-07
 #### Changed
 - Cask `pkarchives` mis à jour vers la release Stable 2026.10.27, SHA-256 du DMG versionné vérifié.
