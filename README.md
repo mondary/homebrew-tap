@@ -142,6 +142,7 @@ L'app n'est pas notariée : au premier lancement, clic droit → Ouvrir si macOS
 
 Une powerline multi-écrans en barre de menu : batterie, RAM, CPU ou réseau en temps réel,
 sur les 4 bords de chaque écran. Binaire universel Intel + Apple Silicon.
+Version Stable : **2026.10.10**.
 
 Installer :
 

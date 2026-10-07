@@ -1,6 +1,6 @@
 cask "pkpowerlines" do
-  version "2026.10.2"
-  sha256 "17b4c8fc2d5fdb13c31f3b2b192c5329449d322ded6e4e045d089c47cc6b2dd0"
+  version "2026.10.10"
+  sha256 "a01de5bda4cf15e27c37797370cd9e95b3d1d76718c513b3edc34d39a9be1040"
 
   url "https://github.com/mondary/Macos_PKpowerlines/releases/download/v#{version}/PKpowerlines-#{version}.dmg"
   name "PKpowerlines"

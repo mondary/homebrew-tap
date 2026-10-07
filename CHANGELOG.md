@@ -6,6 +6,10 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.10.13] - 2026-10-08
+#### Changed
+- Cask `pkpowerlines` mis à jour vers Stable `2026.10.10`, avec SHA-256 vérifié depuis l’asset de release ; README FR/EN synchronisés.
+
 ### [2026.10.12] - 2026-10-07
 #### Changed
 - Cask `pkbrain` mis à jour vers la Stable 2026.10.6, SHA-256 vérifié ; README FR/EN ajoutent l’app au catalogue.

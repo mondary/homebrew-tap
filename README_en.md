@@ -141,6 +141,7 @@ The app is not notarized; if macOS blocks its first launch, Control-click → Op
 
 A multi-screen powerline in the menu bar: battery, RAM, CPU or network in real time,
 on all four edges of every screen. Universal Intel + Apple Silicon binary.
+Current Stable version: **2026.10.10**.
 
 Install:
 
