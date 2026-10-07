@@ -6,6 +6,10 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.10.9] - 2026-10-07
+#### Changed
+- Cask `pk-windows-management` 2026.10.32 : DMG Stable et SHA-256 vérifiés.
+
 ### [2026.10.8] - 2026-10-07
 #### Changed
 - Cask `pkmonitor` mis à jour vers la release Stable 2026.10.20, SHA-256 du DMG vérifié.

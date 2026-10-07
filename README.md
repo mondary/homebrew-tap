@@ -4,7 +4,7 @@
 
 Tap Homebrew des apps PK. Installation en une ligne, mise à jour avec `brew upgrade`.
 
-![Version](https://img.shields.io/badge/version-2026.10.7-c8ff5e)
+![Version](https://img.shields.io/badge/version-2026.10.9-c8ff5e)
 
 ## 🧪 Installation du tap
 
@@ -114,7 +114,7 @@ Mettre à jour :
 brew update && brew upgrade --cask pk-windows-management
 ```
 
-Sans Homebrew : [DMG direct (Apple Silicon)](https://github.com/mondary/PKwindowsManagement/releases/latest/download/PKwindowsManagement_aarch64.dmg).
+Sans Homebrew : [DMG direct (Apple Silicon) v2026.10.32](https://github.com/mondary/PKwindowsManagement/releases/latest/download/PKwindowsManagement_2026.10.32.dmg).
 L'app n'est pas notariée : au premier lancement, clic droit → Ouvrir si macOS la bloque.
 
 ### PKpowerlines
