@@ -4,7 +4,7 @@
 
 Tap Homebrew des apps PK. Installation en une ligne, mise à jour avec `brew upgrade`.
 
-![Version](https://img.shields.io/badge/version-2026.10.11-c8ff5e)
+![Version](https://img.shields.io/badge/version-2026.10.12-c8ff5e)
 
 ## 🧪 Installation du tap
 
@@ -16,6 +16,27 @@ brew tap mondary/tap
 > `brew trust mondary/tap`.
 
 ## 🍺 Casks disponibles
+
+### PKbrain
+
+Bloc-notes macOS avec capture rapide, tiroir presse-papiers, calculatrice intégrée
+et bibliothèque de projets.
+Version Stable : **2026.10.6**.
+
+Installer :
+
+```bash
+brew install --cask mondary/tap/pkbrain
+```
+
+Mettre à jour :
+
+```bash
+brew update && brew upgrade --cask pkbrain
+```
+
+Sans Homebrew : [DMG direct](https://github.com/mondary/PKbrain/releases/latest/download/PKbrain-2026.10.6.dmg).
+L'app embarque ses propres mises à jour via Sparkle.
 
 ### MonoCode PK
 
