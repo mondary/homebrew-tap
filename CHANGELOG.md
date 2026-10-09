@@ -6,6 +6,10 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.10.14] - 2026-10-09
+#### Changed
+- Cask `pk-windows-management` mis à jour vers Stable `2026.10.49` ; SHA-256 vérifié sur le DMG publié. README FR/EN synchronisés avec le lien Ko-fi.
+
 ### [2026.10.13] - 2026-10-08
 #### Changed
 - Cask `pkpowerlines` mis à jour vers Stable `2026.10.10`, avec SHA-256 vérifié depuis l’asset de release ; README FR/EN synchronisés.

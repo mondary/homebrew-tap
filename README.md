@@ -135,7 +135,7 @@ Mettre à jour :
 brew update && brew upgrade --cask pk-windows-management
 ```
 
-Sans Homebrew : [DMG direct (Apple Silicon) v2026.10.32](https://github.com/mondary/PKwindowsManagement/releases/latest/download/PKwindowsManagement_2026.10.32.dmg).
+Sans Homebrew : [DMG direct (Apple Silicon) v2026.10.49](https://github.com/mondary/PKwindowsManagement/releases/latest/download/PKwindowsManagement_2026.10.49.dmg).
 L'app n'est pas notariée : au premier lancement, clic droit → Ouvrir si macOS la bloque.
 
 ### PKpowerlines
@@ -185,3 +185,7 @@ Voir [CHANGELOG.md](CHANGELOG.md) pour l'historique complet.
 
 - [mondary/monocode](https://github.com/mondary/monocode) — MonoCode PK (source + releases)
 - [MonoCode officiel](https://github.com/hardbeat920/monocode) — projet amont
+
+## ❤️ Soutenir
+
+Soutenir les apps PK sur [Ko-fi](https://ko-fi.com/pouark).
