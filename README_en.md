@@ -17,6 +17,27 @@ brew tap mondary/tap
 
 ## 🍺 Available casks
 
+### PK Pixelproof
+
+macOS review canvas for real HTML pages: DOM layers, pages side by side,
+390 / 768 / 1440 px comparison and a chat with your agent over MCP.
+Current version: **2026.10.06**.
+
+Install:
+
+```bash
+brew install --cask mondary/tap/pkpixelproof
+```
+
+Upgrade:
+
+```bash
+brew update && brew upgrade --cask pkpixelproof
+```
+
+Without Homebrew: [direct DMG](https://github.com/mondary/Macos_PKpixelproof/releases/latest/download/PK-Pixelproof-2026.10.06.dmg).
+Unsigned build: on first launch, right-click → Open.
+
 ### PKbrain
 
 Native macOS notes app with quick capture, clipboard drawer, inline calculator

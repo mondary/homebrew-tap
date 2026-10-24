@@ -6,6 +6,10 @@ Tap Homebrew des apps PK.
 
 ## Releases
 
+### [2026.09.33] - 2026-10-24
+#### Added
+- Cask `pkpixelproof` 2026.10.06 — `brew install --cask mondary/tap/pkpixelproof`
+
 ### [2026.10.14] - 2026-10-09
 #### Changed
 - Cask `pk-windows-management` mis à jour vers Stable `2026.10.49` ; SHA-256 vérifié sur le DMG publié. README FR/EN synchronisés avec le lien Ko-fi.
@@ -96,7 +100,7 @@ Tap Homebrew des apps PK.
 
 ## TODO — Roadmap
 
-Statut : `2026.09.32`
+Statut : `2026.09.33`
 
 ### Phase 1 — Premier tap
 - [x] Cask `monocode-pk` (DMG aarch64 depuis les releases `pk-*`)
