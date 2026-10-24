@@ -14,5 +14,7 @@ cask "pkpixelproof" do
     end
   end
 
+  depends_on macos: ">= :ventura"
+
   app "PK Pixelproof.app"
 end
