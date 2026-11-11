@@ -1,6 +1,6 @@
 cask "pkbrain" do
-  version "2026.10.6"
-  sha256 "e6da114a4fa42d808a0d1b79743771a599b1efd41da73b2e53fc143c2eb377c2"
+  version "2026.11.2"
+  sha256 "ed09aa3218147c26fd33183a4d6d3a762ec5ff2cfad0f4b601f507034fbc5fbc"
 
   url "https://github.com/mondary/PKbrain/releases/download/v#{version}/PKbrain-#{version}.dmg"
   name "PKbrain"
